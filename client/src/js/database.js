@@ -12,6 +12,7 @@ const initdb = async () =>
     },
   });
 
+// put
 export const putDb = async (content) => {
   console.log('PUT to the database');
   const jateDb = await openDB('jate', 1);
@@ -23,6 +24,7 @@ export const putDb = async (content) => {
   return result;
 }
 
+// get
 export const getDb = async () => {
   console.log('GET all from the database');
   const jateDb = await openDB('jate', 1);
