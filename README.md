@@ -21,7 +21,7 @@ A progressive web application text editor deployed at heroku.
 
 ## Installation Instructions
 
-Please follow these steps when running this application. <br/><br/>1. git clone the repository to your local machine. <br/>2. In terminal, CD into the application's folder. <br/>3. Type and enter 'npm install' to install the dependencies. <br/>4. CD into the server folder and type and enter 'npm install' to install the server dependencies. <br/>5. Back in the application folder, type and enter 'npm run start' to run the application, the application will be live on your localhost.
+Please follow these steps when running this application. <br/><br/>1. git clone the repository to your local machine. <br/>2. In terminal, CD into the application's folder. <br/>3. Type and enter 'npm install' to install the dependencies. <br/>4. CD into the server folder and client folder and type and enter 'npm install' to install those dependencies. <br/>5. Back in the application folder, type and enter 'npm run start' to run the application, the application will be live on your localhost.
 
 ## Usage Information
 
