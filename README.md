@@ -49,5 +49,7 @@ Other works can be found on https://github.com/Flipper5001.
 If you have any questions or queries, please contact the following email address and we will get back to you as soon as possible.  
 placeholder@gmail.com
 
+## Link to site
+https://m19-pwa-jate.herokuapp.com/
 
 
